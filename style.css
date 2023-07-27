@@ -1,0 +1,38 @@
+body {
+    background: #3498db;
+    font-family: sans-serif;
+}
+
+h2 {
+    color: #fff;
+}
+
+.login {
+    padding: 1cm;
+    margin: 2cm auto;
+    width: 17cm;
+    background: #fff;
+    border-radius: 3px;
+}
+
+label {
+    font-size: 10pt;
+    color: #555;
+}
+
+input {
+    padding: 8px;
+    width: 95%;
+    background: #efefef;
+    border: 0;
+    padding: 5px 8px;
+    margin: 20px 0px;
+}
+
+.tombol {
+    background: #3498db;
+    color: #fff;
+    border: 0;
+    padding: 5px 8px;
+    margin: 20px 0px;
+}
